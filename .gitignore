@@ -1,0 +1,9 @@
+# Apple
+*.dSYM/ 
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Test binaries
+**/test/test
